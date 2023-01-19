@@ -1,12 +1,11 @@
-## Hi there 👋
+# ExplorCity📍
+#### *Find your next adventure with ExplorCity.*
+> ExplorCity is a mobile application that allows users to discover the most interesting places in their city and explore them in an interactive way. <br/>
+> With ExplorCity, users can easily find and visit new places, track their progress, and share their experiences with others.
+> <br/>
 
-<!--
+## Contributing
+This is a school project and contribution is limited to members of this organization. If you would like to join us and contribute to the project, please refer to our contribution guide. We welcome pull requests, feature suggestions, and bug reports.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## License
+This project is licensed under the MIT License. Please refer to the LICENSE file for more information.
