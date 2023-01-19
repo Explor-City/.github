@@ -1,5 +1,4 @@
-# ExplorCity📍
-#### *Find your next adventure with ExplorCity.*
+# *Find your next adventure with ExplorCity* 📍
 > ExplorCity is a mobile application that allows users to discover the most interesting places in their city and explore them in an interactive way. <br/>
 > With ExplorCity, users can easily find and visit new places, track their progress, and share their experiences with others.
 > <br/>
