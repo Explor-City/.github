@@ -7,4 +7,4 @@
 This is a school project and contribution is limited to members of this organization. If you would like to join us and contribute to the project, please refer to our contribution guide. We welcome pull requests, feature suggestions, and bug reports.
 
 ## License
-This project is licensed under the MIT License. Please refer to the [MIT License](https://github.com/Explor-City/.github/blob/main/LICENSE). file for more information.
+This project is licensed under the MIT License. Please refer to the [MIT License](https://github.com/Explor-City/.github/blob/main/LICENSE) file for more information.
